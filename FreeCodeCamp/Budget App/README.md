@@ -5,7 +5,7 @@
 Esse projeto foi feito para a conclusão do curso "Computação Cientifica com Python" da "Free Code Acamp"
 >Clique aqui para saber mais sobre este curso: [[`Scientific Computing with Python`](https://www.freecodecamp.org/learn/scientific-computing-with-python/)]<br>
 ><br>
->Nesse link é possivel ter as informações gerais do projeto: [[`Build a Budget App Project`](https://www.freecodecamp.org/learn/scientific-computing-with-python/#build-a-budget-app-project)]
+>Nesse link é possivel ter as informações gerais do projeto: [[`Build a Budget App Project`](https://www.freecodecamp.org/learn/scientific-computing-with-python/build-a-budget-app-project/build-a-budget-app-project)]
 
 ## Descrição do projeto e regras:
 
