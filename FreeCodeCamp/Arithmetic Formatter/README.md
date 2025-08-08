@@ -3,7 +3,7 @@
 ## Objetivo:
 
 Esse projeto foi feito para a conclusão do curso "Computação Cientifica com Python" da "Free Code Acamp"
->Clique aqui para saber mais sobre este curso: [[`Scientific Computing with Python`](https://www.freecodecamp.org/learn/scientific-computing-with-python/)]
+>Clique aqui para saber mais sobre este curso: [[`Scientific Computing with Python`](https://www.freecodecamp.org/learn/scientific-computing-with-python/)]<br>
 ><br>
 >Nesse link é possivel ter as informações gerais do projeto: [[`Build na Arithmetic Formatter Project`](https://www.freecodecamp.org/learn/scientific-computing-with-python/#build-an-arithmetic-formatter-project)]
 
