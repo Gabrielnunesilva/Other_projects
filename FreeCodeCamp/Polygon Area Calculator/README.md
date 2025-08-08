@@ -1,4 +1,4 @@
-# Time Calculator
+# Polygon Area Calculator
 
 ## Objetivo:
 
