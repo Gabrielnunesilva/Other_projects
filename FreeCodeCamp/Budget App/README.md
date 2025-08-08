@@ -1,4 +1,4 @@
-# Time Calculator
+# Budget App
 
 ## Objetivo:
 
