@@ -1,4 +1,4 @@
-# Time Calculator
+# Probability Calculator
 
 ## Objetivo:
 
